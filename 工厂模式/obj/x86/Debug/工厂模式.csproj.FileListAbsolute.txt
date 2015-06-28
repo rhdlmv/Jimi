@@ -1,0 +1,5 @@
+F:\MyWork\设计模式\工厂模式\obj\x86\Debug\工厂模式.csprojResolveAssemblyReference.cache
+F:\MyWork\设计模式\工厂模式\bin\Debug\工厂模式.exe
+F:\MyWork\设计模式\工厂模式\bin\Debug\工厂模式.pdb
+F:\MyWork\设计模式\工厂模式\obj\x86\Debug\工厂模式.exe
+F:\MyWork\设计模式\工厂模式\obj\x86\Debug\工厂模式.pdb

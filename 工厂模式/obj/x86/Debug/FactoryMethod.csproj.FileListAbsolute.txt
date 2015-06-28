@@ -1,0 +1,4 @@
+F:\MyWork\设计模式\工厂模式\bin\Debug\FactoryMethod.exe
+F:\MyWork\设计模式\工厂模式\bin\Debug\FactoryMethod.pdb
+F:\MyWork\设计模式\工厂模式\obj\x86\Debug\FactoryMethod.exe
+F:\MyWork\设计模式\工厂模式\obj\x86\Debug\FactoryMethod.pdb

@@ -1,0 +1,5 @@
+F:\MyWork\设计模式\AbstractFatory\bin\Debug\AbstractFatory.exe
+F:\MyWork\设计模式\AbstractFatory\bin\Debug\AbstractFatory.pdb
+F:\MyWork\设计模式\AbstractFatory\obj\Debug\AbstractFatory.csprojResolveAssemblyReference.cache
+F:\MyWork\设计模式\AbstractFatory\obj\Debug\AbstractFatory.exe
+F:\MyWork\设计模式\AbstractFatory\obj\Debug\AbstractFatory.pdb
