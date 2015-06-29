@@ -35,7 +35,7 @@ namespace Decorator
         public abstract double cost();
     }
 
-    //
+    //抽象类：配料
     public abstract class CondimentDecorator : Beverage
     {
         public override abstract string GetDescription();
