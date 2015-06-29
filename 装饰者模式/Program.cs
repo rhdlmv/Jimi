@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace 装饰者模式
+namespace Decorator
 {
     //动态地将责任附加到对象上，若要扩张功能，装饰者提供了比继承更有弹性的替代方案。
     class Program

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Collections;
 
-namespace 观察者模式
+namespace Observer
 {
     class Program
     {

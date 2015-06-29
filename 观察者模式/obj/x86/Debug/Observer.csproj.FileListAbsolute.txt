@@ -1,0 +1,5 @@
+E:\GithubFiles\Jimi\观察者模式\bin\Debug\Observer.exe
+E:\GithubFiles\Jimi\观察者模式\bin\Debug\Observer.pdb
+E:\GithubFiles\Jimi\观察者模式\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache
+E:\GithubFiles\Jimi\观察者模式\obj\x86\Debug\Observer.exe
+E:\GithubFiles\Jimi\观察者模式\obj\x86\Debug\Observer.pdb
