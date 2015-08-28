@@ -15,7 +15,7 @@ namespace AbstractFatory
             Pizza pizza = CreatePizza(type);
             Console.WriteLine("--- Making a " + pizza.getName() + " ---");
             pizza.prepare();
-            pizza.bake();
+            pizza.bake(); 
             pizza.cut();
             pizza.box();
             return pizza;
