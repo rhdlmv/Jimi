@@ -49,3 +49,6 @@ Temporary Items
 装饰者模式/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.exe
 bin/*
+obj/*
+bin/
+obj/

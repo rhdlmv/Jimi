@@ -5,3 +5,5 @@ F:\MyWork\设计模式\AbstractFatory\obj\Debug\AbstractFatory.exe
 F:\MyWork\设计模式\AbstractFatory\obj\Debug\AbstractFatory.pdb
 E:\GithubFiles\Jimi\AbstractFatory\obj\Debug\AbstractFatory.exe
 E:\GithubFiles\Jimi\AbstractFatory\obj\Debug\AbstractFatory.pdb
+D:\GitHub\Jimi\AbstractFatory\obj\Debug\AbstractFatory.exe
+D:\GitHub\Jimi\AbstractFatory\obj\Debug\AbstractFatory.pdb
