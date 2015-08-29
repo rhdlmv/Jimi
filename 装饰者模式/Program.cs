@@ -13,7 +13,7 @@ namespace Decorator
             Beverage beverage = new Espresso();
             Console.WriteLine(beverage.GetDescription() + "$" + beverage.cost().ToString()); 
 
-            Beverage beverage2 = new DarkRoast();
+            Beverage beverage2 =  new DarkRoast();
             beverage2 = new Mocha(beverage2);
             beverage2 = new Mocha(beverage2);//用两个Mocha修饰
             beverage2 = new Whip(beverage2);//在用Whip修饰。
