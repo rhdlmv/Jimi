@@ -7,3 +7,8 @@ D:\GitHub\Jimi\装饰者模式\bin\Debug\Decorator.pdb
 D:\GitHub\Jimi\装饰者模式\obj\x86\Debug\Decorator.csprojResolveAssemblyReference.cache
 D:\GitHub\Jimi\装饰者模式\obj\x86\Debug\Decorator.exe
 D:\GitHub\Jimi\装饰者模式\obj\x86\Debug\Decorator.pdb
+D:\SourceTreeFiles\装饰者模式\bin\Debug\Decorator.exe
+D:\SourceTreeFiles\装饰者模式\bin\Debug\Decorator.pdb
+D:\SourceTreeFiles\装饰者模式\obj\x86\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\SourceTreeFiles\装饰者模式\obj\x86\Debug\Decorator.exe
+D:\SourceTreeFiles\装饰者模式\obj\x86\Debug\Decorator.pdb
